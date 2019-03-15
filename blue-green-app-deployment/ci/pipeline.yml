@@ -11,7 +11,7 @@ resources:
   type: git
   source:
     branch: master
-    uri: https://github.com/lxyoutlook/concourse-pipeline-samples.git
+    uri: https://github.com/lauraanddola/pipeline666.git
 - name: PWS
   type: cf
   source:
